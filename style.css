@@ -313,6 +313,8 @@ a{
     text-decoration: none;
 }
 
+
+/* Footer Section */
 #footer{
     display: flex;
     justify-content: center;
